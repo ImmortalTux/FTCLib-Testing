@@ -79,3 +79,10 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+org.eclipse.*
+.breakpoints
+.classpath
+.project
+.replit
+replit.nix
